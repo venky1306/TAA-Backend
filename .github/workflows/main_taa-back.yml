@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TAA-BACK'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2455757E39A446499014536A8A82EC95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4AD04932A1CB4DE0A4B435875A745783 }}
